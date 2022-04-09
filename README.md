@@ -20,18 +20,15 @@ Remove the null values from the data and remove the outliers.
 Remove the non numerical data columns using drop() method.
 
 ### STEP 5:
-Replace the null values using (.fillna).
-
-### STEP 6:
 returns object containing counts of unique values using (value_counts()).
 
-### STEP 7:
+### STEP 6:
 Plot the counts in the form of Histogram or Bar Graph.
 
-### STEP 8:
+### STEP 7:
 find the pairwise correlation of all columns in the dataframe(.corr()).
 
-### STEP 9:
+### STEP 8:
 Save the final data set into the file.
 
 # CODE
